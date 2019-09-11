@@ -1,0 +1,14 @@
+
+<stylesheets>
+<URL value="@Login.css" />
+
+                         </stylesheets>
+
+                                                     <GridPane fx:controller="fxmlexample.FXMLExampleController"
+xmlns:fx="http://javafx.com/fxml" alignment="center" hgap="10" vgap="10"
+styleClass="root">
+                           </GridPane>
+
+                                              <Text id="welcome-text" text="Welcome"
+GridPane.columnIndex="0" GridPane.rowIndex="0"
+GridPane.columnSpan="2"/>
